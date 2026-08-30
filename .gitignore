@@ -1,0 +1,11 @@
+# BestModel
+
+*.env
+*.env.*
+node_modules/
+.log
+*.log
+*.key
+*.pem
+*.pub
+.vibe/
